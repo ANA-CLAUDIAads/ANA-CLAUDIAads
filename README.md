@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 Estudante de Analise e Desenvolvimento de Sistemas (ADS)
 - 🌱 Em Transição de carreira para a área de Tecnoplogia da Informação
-- 👯 Desenvolvendo minhas primeiras experieências práticas em programação e desenvolvimento de sistemas .
+- 👯 Desenvolvendo minhas primeiras experieências práticas em programação e
+desenvolvimento de sistemas .
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
