@@ -1,4 +1,4 @@
-## Hi there  Ana Claudia 👋
+## Hi there Eu sou Ana Cláudia 👋
 
 <!--
 **ANA-CLAUDIAads/ANA-CLAUDIAads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
