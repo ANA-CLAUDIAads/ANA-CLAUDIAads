@@ -1,17 +1,8 @@
 ## Hi there Eu sou Ana Cláudia 👋
 
-<!--
-**ANA-CLAUDIAads/ANA-CLAUDIAads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 Estudante de Analise e Desenvolvimento de Sistemas (ADS)
-- 🌱 Em Transição de carreira para a área de Tecnoplogia da Informação
-- 👯 Desenvolvendo minhas primeiras experieências práticas em programação e
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 💻 Em Transição de carreira para a área de Tecnologia da Informação
+- 📚 Desenvolvendo minhas primeiras experiências práticas em programação e
 desenvolvimento de sistemas .
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
