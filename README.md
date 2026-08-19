@@ -1,4 +1,4 @@
-## Hi there Eu sou Ana Cláudia 👋
+## Eu sou Ana Cláudia 👋
 
 
 
