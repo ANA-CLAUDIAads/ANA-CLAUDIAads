@@ -6,3 +6,5 @@
 - 💻 Em Transição de carreira para a área de Tecnologia da Informação
 - 📚 Desenvolvendo minhas primeiras experiências práticas em programação e
 desenvolvimento de sistemas .
+---
+- 👩 minhas habilidades
